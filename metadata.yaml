@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '41372'
     url: http://www.gutenberg.org/2009/agents/41372
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41798#Van-EyckMasterpieces-in-Colour-Series
 gutenberg_bookshelf: Masterpieces in Colour
 gutenberg_issued: '2013-01-07'
 gutenberg_type: Text
