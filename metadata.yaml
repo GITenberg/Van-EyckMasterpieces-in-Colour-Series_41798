@@ -1,0 +1,28 @@
+_repo: Van-EyckMasterpieces-in-Colour-Series_41798
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41798-h/images/coversmall.jpg
+creator:
+  author:
+    agent_name: Weale, J. Cyril M. (James Cyril M.)
+    alias: Weale, James Cyril M.
+    gutenberg_agent_id: '41372'
+    url: http://www.gutenberg.org/2009/agents/41372
+description: ''
+gutenberg_bookshelf: Masterpieces in Colour
+gutenberg_issued: '2013-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41798'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Masterpieces in Colour
+subjects:
+- !lcc 'ND'
+- !lcsh 'Eyck, Jan van, 1390-1440'
+- !lcsh 'Eyck, Hubert van, 1366-1426'
+title: Van Eyck
+url: http://www.gutenberg.org/ebooks/41798
